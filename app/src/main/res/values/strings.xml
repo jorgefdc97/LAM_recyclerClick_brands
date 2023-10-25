@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LAM_car_brands</string>
+    <string name="carList">Lista de marcas</string>
+    <string name="brandLogo">Logo da marca</string>
+    <string name="number">Número</string>
+</resources>

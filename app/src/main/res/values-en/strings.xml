@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAM_car_brands</string>
+    <string name="carList">Brands list</string>
+    <string name="brandLogo">Brand logo</string>
+    <string name="number">Number</string>
+</resources>
